@@ -6,4 +6,6 @@ Instalação do laravel através de composer
 
 Após isso;
 
+Rodar comando php artisan migrate
+
 Apenas startar o server com o php artisan serve.
